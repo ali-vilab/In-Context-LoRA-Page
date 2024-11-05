@@ -1,0 +1,6 @@
+@article{lhhuang2024iclora,
+  title={In-Context LoRA for Diffusion Transformers},
+  author={Huang, Lianghua and Wang, Wei and Wu, Zhi-Fan and Shi, Yupeng and Dou, Huanzhang and Liang, Chen and Feng, Yutong and Liu, Yu and Zhou, Jingren},
+  booktitle={arXiv preprint arxiv:2410.23775},
+  year={2024}
+}
